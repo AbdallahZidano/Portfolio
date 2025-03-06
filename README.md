@@ -16,14 +16,14 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 ### 🎓 **Rawabi SDM (School ERP System)**
-📲 **[App Store](https://apps.apple.com/us/app/sdm/idXXXXXX) | [Google Play](https://play.google.com/store/apps/details?id=com.sdm.app)**
+📲 **[App Store](https://apps.apple.com/us/app/sdm/idXXXXXX) | [Google Play](https://play.google.com/store/apps/details?id=com.hubinterface.rawabisdm)**
 
 - A **comprehensive school management system** with real-time communication features.
 - Attendance tracking, grading system, and teacher-student interactions.
 
 ---
 ### 🎓 **Delmon SDM (School ERP System)**
-📲 **[App Store](https://apps.apple.com/us/app/sdm/idXXXXXX) | [Google Play](https://play.google.com/store/apps/details?id=com.sdm.app)**
+📲 **[App Store](https://apps.apple.com/us/app/sdm/idXXXXXX) | [Google Play](https://play.google.com/store/apps/details?id=com.hubinterface.delmonsdm)**
 
 - A **comprehensive school management system** with real-time communication features.
 - Attendance tracking, grading system, and teacher-student interactions.
@@ -62,13 +62,13 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 ### 🛍 **Looz App (Services App)**
-📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.mobishop)**
+📲 **[App Store](https://apps.apple.com/us/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%84%D9%88%D8%B2/id6451120012) | [Google Play](https://play.google.com/store/apps/details?id=com.looz.newapp)**
 
 - **Fully integrated e-commerce platform** powered by Odoo ERP.
 - Secure online payments and real-time inventory management.
 
 ### 🛍 **Super Steam App (Services App)**
-📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.mobishop)**
+📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.supersteam)**
 
 - **Fully integrated e-commerce platform** powered by Odoo ERP.
 - Secure online payments and real-time inventory management.
@@ -76,7 +76,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 ### 🛍 **Kitzone App (Services App)**
-📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.mobishop)**
+📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.kitzone.app)**
 
 - **Fully integrated e-commerce platform** powered by Odoo ERP.
 - Secure online payments and real-time inventory management.
@@ -84,7 +84,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 ### 🛍 **Kitzone Manager (Services App)**
-📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.mobishop)**
+📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.kitzone.manager)**
 
 - **Fully integrated e-commerce platform** powered by Odoo ERP.
 - Secure online payments and real-time inventory management.
@@ -95,9 +95,9 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 
 📌 **E-commerce Apps:**
 - **Mizatak App** → [App Store](https://apps.apple.com/us/app/mizatak-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D9%83/id6476163157)
-- **Mizatak Seller** → [App Store](https://apps.apple.com/us/app/mizatak-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D9%83/id6476163157)
-- **Mizatak Delivery** → [App Store](https://apps.apple.com/us/app/mizatak-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D9%83/id6476163157)
-- **Tatiana** → [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.supersteam)
+- **Mizatak Seller** → [App Store](https://apps.apple.com/us/app/%D8%AA%D8%A7%D8%AC%D8%B1-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D9%83/id6476457824)
+- **Mizatak Delivery** → [App Store](https://apps.apple.com/us/app/%D9%85%D9%86%D8%AF%D9%88%D8%A8-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D9%83/id6476419419)
+- **Tatiana** → [Google Play](https://play.google.com/store/apps/details?id=com.tatianaproducts.tatiana)
 
 📌 **Service-Based Apps:**
 - **Just Spa** → [App Store](https://apps.apple.com/us/app/just-spa-%D8%AC%D8%B3%D8%AA-%D8%B3%D8%A8%D8%A7/id6472675205)
@@ -106,10 +106,10 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 📌 **School Management Apps:**
-- **Second Home** → [App Store](https://apps.apple.com/us/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%84%D9%88%D8%B2/id6451120012)
-- **Golden Pens** → [App Store](https://apps.apple.com/us/app/just-spa-%D8%AC%D8%B3%D8%AA-%D8%B3%D8%A8%D8%A7/id6472675205)
-- **Warkaa School** → [App Store](https://apps.apple.com/us/app/abni/id6705117138)
-- **Nour Elbayan School** → [App Store](https://apps.apple.com/us/app/abni/id6705117138)
+- **Second Home** → [App Store](https://apps.apple.com/us/app/second-home-school-2/id6455370646)
+- **Golden Pens** → [App Store](https://apps.apple.com/us/app/golden-pens-schools/id6456704037)
+- **Warkaa School** → [App Store](https://apps.apple.com/us/app/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A%D8%A9/id6657988703)
+- **Nour Elbayan School** → [App Store](https://apps.apple.com/us/app/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A%D8%A9/id6670618611)
 
 ---
 
