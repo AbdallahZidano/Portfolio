@@ -40,7 +40,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 
 ---
 
-### 🛍 **Mobishop (E-commerce App)**
+### 🛒 **Mobishop (E-commerce App)**
 📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.mobishop)**
 
 - **Fully integrated e-commerce platform** powered by Odoo ERP.
@@ -56,7 +56,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 
 ---
 
-### 🛍 **Looz App (Services App)**
+### 🚙 **Looz App (Services App)**
 📲 **[App Store](https://apps.apple.com/us/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%84%D9%88%D8%B2/id6451120012) | [Google Play](https://play.google.com/store/apps/details?id=com.looz.newapp)**
 
 - A **comprehensive on-demand service platform** connecting users with various professionals.
@@ -65,7 +65,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 
 ---
 
-### 🛍 **Super Steam App (Services App)**
+### 🚖 **Super Steam App (Services App)**
 📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.itlegend.supersteam)**
 
 - **On-demand car wash services** with real-time booking.
@@ -102,7 +102,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 
 ---
 
-### 🛍 **Kitzone Manager (Management App)**
+### 📊 **Kitzone Manager (Management App)**
 📲 **[App Store](https://apps.apple.com/us/app/mobishop-%D9%85%D9%88%D8%A8%D9%8A-%D8%B4%D9%88%D8%A8/id6469453805) | [Google Play](https://play.google.com/store/apps/details?id=com.kitzone.manager)**
 
 - A **powerful management tool** designed for event organizers and businesses.
@@ -119,6 +119,8 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 - **Mizatak Seller** → [App Store](https://apps.apple.com/us/app/%D8%AA%D8%A7%D8%AC%D8%B1-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D9%83/id6476457824)
 - **Mizatak Delivery** → [App Store](https://apps.apple.com/us/app/%D9%85%D9%86%D8%AF%D9%88%D8%A8-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D9%83/id6476419419)
 - **Tatiana** → [Google Play](https://play.google.com/store/apps/details?id=com.tatianaproducts.tatiana)
+
+---
 
 📌 **Service-Based Apps:**
 - **Just Spa** → [App Store](https://apps.apple.com/us/app/just-spa-%D8%AC%D8%B3%D8%AA-%D8%B3%D8%A8%D8%A7/id6472675205)
