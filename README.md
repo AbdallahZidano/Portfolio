@@ -25,7 +25,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 ### 🎓 **Rawabi SDM (School ERP System)**
-📲 **[App Store](https://apps.apple.com/us/app/sdm/idXXXXXX) | [Google Play](https://play.google.com/store/apps/details?id=com.hubinterface.rawabisdm)**
+📲 **[App Store](https://apps.apple.com/us/app/rawabi-sdm/id6741045158) | [Google Play](https://play.google.com/store/apps/details?id=com.hubinterface.rawabisdm)**
 
 - A **comprehensive school management system** with real-time communication features.
 - Attendance tracking, grading system, and teacher-student interactions.
@@ -77,7 +77,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 ### 🎓 **Delmon SDM (School ERP System)**
-📲 **[App Store](https://apps.apple.com/us/app/sdm/idXXXXXX) | [Google Play](https://play.google.com/store/apps/details?id=com.hubinterface.delmonsdm)**
+📲 **[App Store](https://apps.apple.com/us/app/delmon-sdm/id6742243600) | [Google Play](https://play.google.com/store/apps/details?id=com.hubinterface.delmonsdm)**
 
 - A **comprehensive school management system** with real-time communication features.
 - Attendance tracking, grading system, and teacher-student interactions.
@@ -85,7 +85,7 @@ Welcome to my portfolio! 🚀 Here, you’ll find a collection of my **Flutter p
 ---
 
 ### 🎓 **SDM Hubinterface (School ERP System)**
-📲 **[App Store](https://apps.apple.com/us/app/sdm/idXXXXXX) | [Google Play](https://play.google.com/store/apps/details?id=com.sdm.app)**
+📲 **[App Store](https://apps.apple.com/us/app/sdm-hubinterface/id6740837982) | [Google Play](https://play.google.com/store/apps/details?id=com.sdm.app)**
 
 - A **comprehensive school management system** with real-time communication features.
 - Attendance tracking, grading system, and teacher-student interactions.
